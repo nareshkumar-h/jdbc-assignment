@@ -9,7 +9,7 @@ import java.sql.DriverManager;
 import java.sql.PreparedStatement;
 import java.sql.SQLException;
 
-public class ConnectionUtil {
+public class PracticeDBOperations {
 	
 	public static void main(String[] args) throws ClassNotFoundException, SQLException {
 		String driverClassName = "com.mysql.jdbc.Driver";
